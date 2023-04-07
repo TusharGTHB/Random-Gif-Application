@@ -1,4 +1,4 @@
-# random-gifs
+# Random-gifs
 
 The Random GIF application is a fun way to discover new and exciting GIFs! With a sleek HTML design, powered by Tailwind CSS, and the dynamic capabilities of ReactJS, our app delivers a seamless and immersive experience.
 
